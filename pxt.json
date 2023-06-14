@@ -1,5 +1,5 @@
 {
-    "name": "Lives and Gold",
+    "name": "ISU GAME",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -15,7 +15,9 @@
         "images.g.ts",
         "tutorial.custom.ts",
         "pxt.json",
-        ".simstate.json"
+        ".simstate.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
